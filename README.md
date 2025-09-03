@@ -10,8 +10,4 @@ For the second part, we basically just followed the Stanford assignment, which m
 
 Then, for part 3, we focused on text models, using architectures like RNNs and LSTMs, ultimately working up to Transformers. The earlier assignments in this part has no helper code given, but later parts like Transformers had a lot of helper code given. 
 
-
-For the final project, Thomas and I worked on looking into 2048. We had about 3 weeks to do this, so the project was quite rushed, but I wouldn't call it a failure. Nevertheless, you can learn more about it in the TA_2048 folder. 
-
-
-
+For the final project, Thomas and I worked on looking into 2048. Specifically, using Reinforcement Learning to create a bot to play 2048. Our project was quite rushed, I wish we had more time to explore things further before the symposium. Nevertheless, you can learn more about it in the TA_2048 folder. 
